@@ -9,4 +9,3 @@ Propose New Owner: Guardians can vote to change the owner after a certain number
 Receive Funds: The contract can accept ether directly.
 The consumer contract interacts with the SmartWallet, allowing you to check the balance and deposit funds.
 
-Let me know if you'd like to mod
