@@ -7,5 +7,14 @@ Allowance System: The owner can set spending limits for addresses, controlling h
 Secure Fund Transfers: Transfers can be made by the owner or allowed addresses, within their spending limits.
 Propose New Owner: Guardians can vote to change the owner after a certain number of confirmations.
 Receive Funds: The contract can accept ether directly.
-The consumer contract interacts with the SmartWallet, allowing you to check the balance and deposit funds.
+The consumer contract interacts with the SmartWallet, allowing you to check the balance and deposit funds.>
+
+
+
+skillchain-verify-op7xrs
+
+
+
+
+
 
